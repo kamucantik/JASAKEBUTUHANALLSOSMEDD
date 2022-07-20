@@ -12,8 +12,8 @@ const chalk = require('chalk')
 global.zenzkey = 'Your_Apikey' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
+global.ownerNumber = ['6281252254886','6281330900857'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6281252254886' //Owner Utama
 global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
 global.packname = 'Dracule Mihawk' //Ganti Jadi Nama Botmu
 global.author = 'By NzrlAfndi' //Ganti Jadi Namamu
